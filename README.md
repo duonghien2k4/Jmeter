@@ -1,7 +1,7 @@
 BÁO CÁO KIỂM THỬ HIỆU SUẤT JMETER
 Tên Dự Án: Load Testing of Web Pages
 Ngày Kiểm Thử: 01/07/2025
-Người Kiểm Thử: Nguyễn Văn B
+Người Kiểm Thử: Dương Thị Thu Hiền
 1. Mục Tiêu Kiểm Thử
 Sử dụng JMeter để kiểm tra hiệu năng của các trang web khác nhau dưới tải khác nhau.
 2. Môi Trường Kiểm Thử
